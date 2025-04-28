@@ -1,8 +1,12 @@
 # My Web Application
 
-# Course
+# Project Overview
 
-CL1000 	Introduction to Information and Communication Technology <br />
+This project is developed as part of the "Introduction to Information and Communication Technology" course (CL-1000) for Fall 2022.<br/>
+It involves designing a front-end website using only HTML, CSS, and Bootstrap — without using any CMS (like WordPress, Joomla) or any paid libraries or templates.<br/>
+
+The project consists of five interlinked web pages, based on the theme of a self-designed website (e.g., E-commerce, Educational, Social Media, etc.).<br/>
+All pages follow a consistent design structure with a common Header (Navigation Bar) and Footer (Contact Information).<br />
 
 # Objective
 
